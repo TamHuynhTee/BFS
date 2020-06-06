@@ -1,0 +1,3 @@
+﻿  BFS.cpp
+c:\users\dell\desktop\bfs\bfs\bfs\bfs.cpp(267): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BFS.vcxproj -> C:\Users\DELL\Desktop\BFS\BFS\Debug\BFS.exe
